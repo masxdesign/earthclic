@@ -1,0 +1,1 @@
+This repository contains details about the Earthclic project.
